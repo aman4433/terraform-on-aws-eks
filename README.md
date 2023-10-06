@@ -3,7 +3,7 @@
 [![Image](https://stacksimplify.com/course-images/terraform-on-aws-eks-kubernetes.png "Terraform on AWS EKS Kubernetes IaC SRE- 50 Real-World Demos ")](https://links.stacksimplify.com/terraform-on-aws-eks-kubernetes-iac-sre)
 
 
-## Course Modules
+# Course Modules
 01. Infrastructure as Code (IaC)
 02. Terraform Install Tools, Command and Language Basics
 03. Terraform Settings, Providers and Resources
